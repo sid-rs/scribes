@@ -1,7 +1,12 @@
 # Scribes
 <details> 
   <summary>DSA</summary>
-- ...
+
+- Lists
+- Linked List
+- Searching Algorithms
+- Sorting Algorithms
+
 </details>
 
 <details> 
